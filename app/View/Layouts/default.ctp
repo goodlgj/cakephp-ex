@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on OpenShift</h1>
+            <h1>Welcome to your CakePHP application on OpenShift-Test002</h1>
           </hgroup>
 
 
@@ -295,7 +295,7 @@ oc deploy cakephp-mysql-example --latest
                 <p>You can use the Web Console to view the state of your application components and launch new builds.</p>
 
                 <h3>Command Line</h3>
-                <p>With the <a href="http://Test-002/latest/cli_reference/overview.html">OpenShift command line interface</a> (CLI), you can create applications and manage projects from a terminal.</p>
+                <p>With the <a href="http://docs.openshift.org/latest/cli_reference/overview.html">OpenShift command line interface</a> (CLI), you can create applications and manage projects from a terminal.</p>
 
                 <h2>Development Resources</h2>
                   <ul>
